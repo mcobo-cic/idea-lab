@@ -4,7 +4,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcoscobo/idea-lab.git"
+    "url": "git+https://github.com/mcobo-cic/idea-lab.git"
   },
   "type": "module",
   "description": "A simple workspace to improve a software idea with AI, understand the evidence, and prepare a focused build brief.",
