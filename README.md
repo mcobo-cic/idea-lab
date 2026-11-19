@@ -16,7 +16,7 @@ Turn a software idea into a sharper business hypothesis. Idea Lab investigates t
 Clone or download this repository. With Node.js 22 or newer installed, open the project folder and start the app:
 
 ```sh
-git clone https://github.com/marcoscobo/idea-lab.git
+git clone https://github.com/mcobo-cic/idea-lab.git
 cd idea-lab
 npm start
 ```
